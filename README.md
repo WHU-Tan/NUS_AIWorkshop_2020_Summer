@@ -20,7 +20,7 @@ In this section, you will see notes of the course taken by the author.
 
 ## Part III: Final Design
 
-In this section, you will see a final project designed by author Lim and his team.
+In this section, you will see a final project designed by  and his team.
 
 All of the programs are based on Python 3.
 For more information, you may contact me on [my website](http://xiaotan.tech/).
